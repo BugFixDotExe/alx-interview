@@ -2,7 +2,7 @@
 
 For this project, I began practicing consuming API for my specialization into backend development.
 
-**Tags: |Back-end NodeJs |**
+**Tags: |Algorithm API JavaScript|**
 
 ## Tasks :page_with_curl:
 
